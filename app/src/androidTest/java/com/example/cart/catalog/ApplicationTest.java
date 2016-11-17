@@ -1,4 +1,4 @@
-package com.example.hsport.catalog;
+package com.example.cart.catalog;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

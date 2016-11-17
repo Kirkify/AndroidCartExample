@@ -1,4 +1,4 @@
-package com.example.hsport.catalog;
+package com.example.cart.catalog;
 
 public class Product {
 
